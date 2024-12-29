@@ -1,3 +1,7 @@
+% Vanderlugt Filter Implementation for Face Recognition
+% Authors: Nahal Akbari, Hassan Kaatuzian
+% Description: MATLAB implementation of Vanderlugt filter for facial recognition
+% using optical correlation techniques
 
 clear all;
 close all; clc;
